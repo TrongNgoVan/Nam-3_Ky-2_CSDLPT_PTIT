@@ -1,0 +1,7 @@
+.chart-bar .bar-rut-tien {
+    -fx-bar-fill: red;
+}
+
+.chart-bar .bar-gui-tien {
+    -fx-bar-fill: blue;
+}
