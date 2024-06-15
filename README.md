@@ -1,4 +1,4 @@
-Môn Cơ Sở Dữ Liệu Phân Tán Thầy Đỗ Văn Hanh - PTIT Sinh Viên Ngọ Văn Trọng
+### Môn Cơ Sở Dữ Liệu Phân Tán Thầy Đỗ Văn Hanh - PTIT Sinh Viên Ngọ Văn Trọng
 1. Lý thuyết tổng hợp ( Nguồn : Cô Phan Thị Hà )
 2. Cấu hình và cài đặt Phân Tán
 3. Báo Cáo BTL ( Quản Lý Thông tin và Giao Dịch Ngân Hang )
